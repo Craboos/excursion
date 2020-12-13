@@ -1,0 +1,54 @@
+/* Main Styles */
+body{
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+    display: block;
+    margin: 8px;
+
+
+}
+h1{
+    display: block;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size: 50px;
+    font-weight: normal;
+
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    color: gray;
+    font-size: 21px;
+    
+}
+.cta {
+    color: aquamarine;
+    font-size: 16px;
+}
+video {
+    object-fit: contain;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+    display: block;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.footer {
+    text-align: right;
+}
+div {
+    display: block;
+}
